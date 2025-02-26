@@ -41,7 +41,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@apollo/client": "3.4.0",
+    "@apollo/client": "3.12.9",
     "@etherspot/contracts": "1.9.9",
     "@lifi/sdk": "1.6.4",
     "@nerdwallet/apollo-cache-policies": "1.2.1",
